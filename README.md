@@ -30,8 +30,6 @@ This repository contains multiple **real-world examples** demonstrating how to b
 |--------------------|----------------------|
 | ![Streamlit Screenshot](./screenshots/streamlit_ui.png) | ![FastAPI Web UI](./screenshots/fastapi_ui.png) |
 
-> *(Add screenshots into `/screenshots` folder — the file names will match.)*
-
 ---
 
 ## 📂 Project Structure
